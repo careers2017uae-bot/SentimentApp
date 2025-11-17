@@ -57,7 +57,7 @@ Text:
 \"\"\"{text}\"\"\"
 """
     payload = {
-        "model": "gpt-4.1-mini",
+        "model": "llama-3.3-70b-versatile",
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0
     }
