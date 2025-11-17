@@ -7,7 +7,7 @@ import requests
 # Page configuration
 st.set_page_config(page_title="Sentiment Analysis App", page_icon="📝", layout="wide")
 
-st.title("📝 Sentiment Analysis App with Groq")
+st.title("📝 Sentiment Analysis App with Groq by Engr. Bilal")
 st.markdown("""
 Analyze the sentiment of any text or uploaded document.
 Supports **.txt** and **.pdf** files.
